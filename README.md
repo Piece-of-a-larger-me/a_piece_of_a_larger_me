@@ -12,14 +12,14 @@ blog, même s'il n'en prendra pas exactement la forme.
 Comment lire ce site ?
 ----------------------
 
-- https://piece-of-a-larger-me.github.io/ présente la dernière version des
+- <https://piece-of-a-larger-me.github.io/> présente la dernière version des
   articles avec une mise en page sobre et de bon goût. On peut également y
   télécharger des fichiers PDF individuels pour imprimer et lire hors ligne.
 
-- https://piece-of-a-larger-me.github.io/a_piece_of_a_larger_me.pdf propose
+- <https://piece-of-a-larger-me.github.io/a_piece_of_a_larger_me.pdf> propose
   une version imprimable de presque tous les articles.
 
-- https://github.com/Piece-of-a-larger-me/a_piece_of_a_larger_me présente
+- <https://github.com/Piece-of-a-larger-me/a_piece_of_a_larger_me> présente
   les articles sous leur forme originale et permet de consulter l'historique
   et de déposer des commentaires. Avec un navigateur mobile, il faudra
   suivre le lien « 📁 Code » pour obtenir la liste des articles.
