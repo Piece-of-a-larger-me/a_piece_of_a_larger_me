@@ -24,6 +24,11 @@ Comment lire ce site ?
   et de déposer des commentaires. Avec un navigateur mobile, il faudra
   suivre le lien « 📁 Code » pour obtenir la liste des articles.
 
+- <https://twitter.com/PieceOfLargerMe> annonce les articles sur Twitter,
+  avec un résumé en français et en anglais. Les retweets (et l'équivalent
+  sur d'autres réseaux sociaux) sont les bienvenus, de même que les
+  commentaires.
+
 C'est quoi, GitHub ?
 --------------------
 
