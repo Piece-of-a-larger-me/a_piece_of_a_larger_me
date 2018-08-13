@@ -31,8 +31,9 @@ quatre lettres, A, C, G et T (les initiales de leurs noms chimiques). L'ADN
 est en quelque sorte un livre écrit dans un alphabet de quatre lettres. Ce
 que raconte ce livre, c'est comment fabriquer des molécules, les protéines,
 dont l'organisme a besoin. L'organisme, vraiment, est principalement
-constitué de protéines. Et le reste, les molécules utiles à l'organisme qui
-ne sont pas des protéines, est souvent fabriqué par des protéines.
+constitué de protéines, si on ne compte pas l'eau. Et le reste, les
+molécules utiles à l'organisme qui ne sont pas des protéines, est souvent
+fabriqué par des protéines.
 
 Une partie de l'ADN qui code la fabrication d'une protéine, une phrase du
 livre si on veut, s'appelle un gène. Comme les phrases dans les langues
@@ -44,15 +45,15 @@ elles produisent des protéines aussi utiles pour l'organisme ; parfois, au
 contraire, une version d'un gène peut ne pas marcher, produire des protéines
 inutiles.
 
-La plupart des cellules sont dites diploïdes : elles ont deux exemplaires du
-code génétique, l'un obtenu du père et l'autre obtenu de la mère, par le
-mécanisme de la reproduction sexuée. Ça veut dire que tout le monde a à sa
-disposition au moins deux exemplaires de presque chaque gène ; avec un peu
-de chance, si l'une de ces versions est défectueuse, l'autre sera
-fonctionnelle. C'est cette duplication qui explique un des principaux
-phénomènes décrits par Mendel : l'aspect récessif ou dominant d'un
-caractère, selon s'il peut « sauter une génération » ou pas. Je ne vais pas
-entrer dans ces détails ici.
+Dans les organismes qui nous sont familiers, la plupart des cellules sont
+dites diploïdes : elles ont deux exemplaires du code génétique, l'un obtenu
+du père et l'autre obtenu de la mère, par le mécanisme de la reproduction
+sexuée. Ça veut dire que tout le monde a à sa disposition au moins deux
+exemplaires de presque chaque gène ; avec un peu de chance, si l'une de ces
+versions est défectueuse, l'autre sera fonctionnelle. C'est cette
+duplication qui explique un des principaux phénomènes décrits par Mendel :
+l'aspect récessif ou dominant d'un caractère, selon s'il peut « sauter une
+génération » ou pas. Je ne vais pas entrer dans ces détails ici.
 
 À certains moments, tout particulièrement au moment où l'information
 génétique est copiée pour permettre à une cellule de se dédoubler, et tout
@@ -121,9 +122,9 @@ D'autre part, le caractère néfaste ou bénéfique d'une mutation dépend du
 contexte, du milieu. Par exemple, aux hautes latitudes, une mutation qui
 diminue le nombre de mélanocytes (les cellules responsables de la
 pigmentation de la peau) est plutôt avantageuse car elle peut éviter les
-carences en vitamine D, mais aux bases latitudes elle laisse la peau exposée
-aux brûlures du soleil. Un autre exemple, la drépanocytose, ou anémie
-falciforme, est un classique des cours de SVT au lycée : une maladie
+carences en vitamine D, mais aux basses latitudes elle laisse la peau
+exposée aux brûlures du soleil. Un autre exemple, la drépanocytose, ou
+anémie falciforme, est un classique des cours de SVT au lycée : une maladie
 génétique assez lourde mais vivable, qui a la caractéristique de conférer
 une immunité partielle aux formes les plus graves de paludisme.
 
@@ -376,11 +377,11 @@ L'enseignement le plus important, à mon avis, est que la concurrence n'est
 pas une fin en soi et n'a rien de sacré. La concurrence est un mécanisme, et
 à ce titre elle produit des effets en fonction des circonstances. De même
 que la sélection naturelle n'œuvre pas forcément pour le bien-être des êtres
-vivants, les effets de la concurrence ne sont pas forcément bénéfique pour
-les populations. Ils arrivent qu'ils le soient, c'est la concurrence qui
-nous donne des téléphone aussi puissants et aussi bon marché, mais pas
-toujours, c'est la concurrence qui fait que la puissance de nos téléphone
-est consacrée à nous espionner.
+vivants, les effets de la concurrence ne sont pas forcément bénéfiques pour
+les populations. Il arrive qu'ils le soient, c'est la concurrence qui nous
+donne des téléphone aussi puissants et aussi bon marché, mais pas toujours,
+c'est la concurrence qui fait que la puissance de nos téléphone est
+consacrée à nous espionner.
 
 Dans le cadre d'une société d'individus, il convient d'établir en premier
 les objectifs, de définir ce qui constitue le bien commun. C'est un acte
