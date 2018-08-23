@@ -203,7 +203,7 @@ Pour la question de la science dans les pratiques thérapeutiques, il me
 semble intéressant de se rappeler le cas de la médecine. Historiquement, il
 y a très longtemps, la médecine allait main dans la main avec la religion ;
 ça ne se voit pas trop avec nos curés, mais les druides, les chamanes
-étaient à la fois prêtes et guérisseurs. Plus tard, la médecine s'est
+étaient à la fois prêtres et guérisseurs. Plus tard, la médecine s'est
 séparée de la religion, et c'est cette séparation qui a permis son essor, en
 particulier grâce aux autopsies.
 
