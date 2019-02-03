@@ -27,7 +27,4 @@ différence qualitative réelle. On aura fait un saut qualitatif quand
 l'intelligence artificielle, après avoir lu tous les messages de quelqu'un
 sur les réseaux sociaux, refusera de choisir le modèle de chaussure qu'il y
 a le plus de chances d'arriver à lui vendre et préférera répondre point par
-point à ses articles. (Il y a un autre buzzword à la mode, le
-« transhumanisme », mais le transhumanisme a commencé la première fois qu'un
-humain a ramassé un bâton pour taper sur quelque chose. Et les gens qui ont
-un pacemaker sont des cyborgs.))
+point à ses articles.)
