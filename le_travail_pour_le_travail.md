@@ -51,11 +51,13 @@ le formalisme que j'ai employé l'appelle ainsi.
 
 Il n'y a pas de bonne ou de mauvaise réponse à cette question dans l'absolu.
 L'esclavage, un système où le curseur est au maximum du côté du capital, a
-permis l'édification des pyramides ; un autre système ne l'aurait
-probablement pas permis avec la technologie et la société de l'époque. Pour
-quelqu'un qui accorde une grande priorité à l'existence des pyramides, c'est
-un bon système. Pour quelqu'un qui privilégie le bien-être des personnes,
-c'est un système abominable.
+permis (dans le cliché populaire, désormais discrédité par les historiens,
+mais pour expliquer l'idée le cliché est aussi efficace que la réalité)
+l'édification des pyramides ; un autre système ne l'aurait probablement pas
+permis avec la technologie et la société de l'époque. Pour quelqu'un qui
+accorde une grande priorité à l'existence des pyramides, c'est un bon
+système. Pour quelqu'un qui privilégie le bien-être des personnes, c'est un
+système abominable.
 
 Pour ma part, je suis attaché à une société qui permet au maximum à tous ses
 membres de s'épanouir et n'exclue personne. Je n'accorde de valeur à des
