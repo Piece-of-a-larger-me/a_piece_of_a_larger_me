@@ -617,8 +617,8 @@ comment l'utiliser ?
 
 Imaginons qu'on nous demande de simplifier 2x−3/x+(5(2x+4)−7)/3.
 
-J'allais oublier de préciser : … où x est un nombre réel quelconque. Mais tu
-avais deviné.
+J'allais oublier de préciser : … où x est un nombre réel non nul quelconque.
+Mais tu avais deviné.
 
 Avec de l'habitude, on remarque qu'il y a une multiplication sur une
 addition : 5(2x+4). Dit autrement, on reconnaît le membre de gauche de la
