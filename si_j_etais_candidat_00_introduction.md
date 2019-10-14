@@ -72,3 +72,8 @@ un mercenaire à la solde de fanatiques catholiques.
 
 Activez votre imagination, activez votre foi en la politique et la
 démocratie, et bonne lecture !
+
+
+1. [Grands principes][sjc01]
+
+ [sjc01]: si_j_etais_candidat_01_grands_principes.md
