@@ -75,5 +75,7 @@ démocratie, et bonne lecture !
 
 
 1. [Grands principes][sjc01]
+2. [Une société française qui fonctionne][sjc02]
 
  [sjc01]: si_j_etais_candidat_01_grands_principes.md
+ [sjc02]: si_j_etais_candidat_02_une_societe_francaise_qui_fonctionne.md
