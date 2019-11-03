@@ -76,6 +76,8 @@ démocratie, et bonne lecture !
 
 1. [Grands principes][sjc01]
 2. [Une société française qui fonctionne][sjc02]
+3. [Sur l'économie et la technologie][sjc03]
 
  [sjc01]: si_j_etais_candidat_01_grands_principes.md
  [sjc02]: si_j_etais_candidat_02_une_societe_francaise_qui_fonctionne.md
+ [sjc03]: si_j_etais_candidat_03_sur_l_economie_et_la_technologie.md
