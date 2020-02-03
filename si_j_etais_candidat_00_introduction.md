@@ -78,8 +78,10 @@ démocratie, et bonne lecture !
 2. [Une société française qui fonctionne][sjc02]
 3. [Sur l'économie et la technologie][sjc03]
 4. [Éliminer la misère][sjc04]
+5. [Repenser les institutions][sjc05]
 
  [sjc01]: si_j_etais_candidat_01_grands_principes.md
  [sjc02]: si_j_etais_candidat_02_une_societe_francaise_qui_fonctionne.md
  [sjc03]: si_j_etais_candidat_03_sur_l_economie_et_la_technologie.md
  [sjc04]: si_j_etais_candidat_04_eliminer_la_misere.md
+ [sjc05]: si_j_etais_candidat_05_repenser_les_institutions.md
