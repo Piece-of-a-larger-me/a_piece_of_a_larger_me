@@ -80,6 +80,7 @@ démocratie, et bonne lecture !
 4. [Éliminer la misère][sjc04]
 5. [Repenser les institutions][sjc05]
 6. [La retraite][sjc06]
+7. [Les secrétaires publics][sjc07]
 
  [sjc01]: si_j_etais_candidat_01_grands_principes.md
  [sjc02]: si_j_etais_candidat_02_une_societe_francaise_qui_fonctionne.md
@@ -87,3 +88,4 @@ démocratie, et bonne lecture !
  [sjc04]: si_j_etais_candidat_04_eliminer_la_misere.md
  [sjc05]: si_j_etais_candidat_05_repenser_les_institutions.md
  [sjc06]: si_j_etais_candidat_06_la_retraite.md
+ [sjc07]: si_j_etais_candidat_07_les_secretaires_publics.md
