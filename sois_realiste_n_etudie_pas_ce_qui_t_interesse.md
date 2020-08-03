@@ -53,7 +53,7 @@ ambition sous son matérialisme.
 
 Si nous prenons conscience de la richesse de notre société, si nous nous
 rendons compte qu'il y a assez pour tout le monde, sans qu'il y ait besoin
-de chaire fraîche pour les chaînes de production, alors nous pouvons décider
+de chair fraîche pour les chaînes de production, alors nous pouvons décider
 de les libérer de cette compétition, décider de les laisser s'épanouir sans
 ce poids sur leurs épaules.
 
